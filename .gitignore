@@ -1,3 +1,7 @@
 .sass-cache
 .DS_Store
 *.gem
+
+node_modules
+.node-version
+test/fixtures/app_assets/.eyeglass_cache

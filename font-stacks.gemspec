@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.files = ["README.mdown"]
   s.files = ["CHANGELOG.mdown"]
   s.files += Dir.glob("lib/**/*.*")
-  s.files += Dir.glob("stylesheets/**/*.*")
+  s.files += Dir.glob("sass/**/*.*")
 
   # Gem bookkeeping
   s.required_rubygems_version = ">= 1.3.6"

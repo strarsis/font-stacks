@@ -1,0 +1,25 @@
+{
+  "name": "eyeglass-font-stacks",
+  "version": "0.1.4",
+  "description": "Sass eyeglass module",
+  "license": "MIT",
+  "repository": "adamstac/eyeglass-font-stacks",
+  "author": {
+    "name": "Adam Stacoviak",
+    "email": "",
+    "url": "https://github.com/adamstac"
+  },
+  "files": [
+    "sass"
+  ],
+  "keywords": ["eyeglass-module", "sass"],
+  "main": "eyeglass-exports.js",
+  "eyeglass": {
+    "needs": "^0.7.1",
+    "name": "font-stacks",
+    "exports": "eyeglass-exports.js"
+  },
+  "dependencies": {
+    "eyeglass": "*"
+  }
+}
