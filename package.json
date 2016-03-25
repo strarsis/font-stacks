@@ -3,16 +3,25 @@
   "version": "0.1.6",
   "description": "Sass eyeglass module for a Sass and Compass font-family library of common web-friendly font stacks.",
   "license": "MIT",
-  "repository": "strarsis/eyeglass-font-stacks",
-  "author": {
-    "name": "strarsis",
-    "email": "strarsis@gmail.com",
-    "url": "https://github.com/adamstac"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strarsis/eyeglass-font-stacks.git"
   },
+  "author": "strarsis <strarsis@gmail.com> (https://github.com/adamstac)",
   "files": [
     "sass"
   ],
-  "keywords": ["eyeglass-module", "sass", "font", "fonts", "stack", "stacks", "font stack", "fonts stack", "font stacks"],
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "font",
+    "fonts",
+    "stack",
+    "stacks",
+    "font stack",
+    "fonts stack",
+    "font stacks"
+  ],
   "main": "eyeglass-exports.js",
   "eyeglass": {
     "needs": "^0.7.1",
@@ -21,5 +30,15 @@
   },
   "dependencies": {
     "eyeglass": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/strarsis/eyeglass-font-stacks/issues"
+  },
+  "homepage": "https://github.com/strarsis/eyeglass-font-stacks#readme",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
