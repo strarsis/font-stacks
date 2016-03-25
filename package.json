@@ -1,6 +1,6 @@
 {
   "name": "eyeglass-font-stacks",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Sass eyeglass module for a Sass and Compass font-family library of common web-friendly font stacks.",
   "license": "MIT",
   "repository": "strarsis/eyeglass-font-stacks",
