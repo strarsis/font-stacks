@@ -2,6 +2,10 @@
 
 Font Stacks is a Sass and Compass font-family library of common web-friendly font stacks.
 
+
+Forked from https://github.com/adamstac/font-stacks
+
+
 ## Installation
 
 1. `gem install font-stacks`
