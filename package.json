@@ -1,18 +1,18 @@
 {
   "name": "eyeglass-font-stacks",
   "version": "0.1.5",
-  "description": "Sass eyeglass module",
+  "description": "Sass eyeglass module for a Sass and Compass font-family library of common web-friendly font stacks.",
   "license": "MIT",
-  "repository": "adamstac/eyeglass-font-stacks",
+  "repository": "strarsis/eyeglass-font-stacks",
   "author": {
-    "name": "Adam Stacoviak",
-    "email": "",
+    "name": "strarsis",
+    "email": "strarsis@gmail.com",
     "url": "https://github.com/adamstac"
   },
   "files": [
     "sass"
   ],
-  "keywords": ["eyeglass-module", "sass"],
+  "keywords": ["eyeglass-module", "sass", "font", "fonts", "stack", "stacks", "font stack", "fonts stack", "font stacks"],
   "main": "eyeglass-exports.js",
   "eyeglass": {
     "needs": "^0.7.1",
