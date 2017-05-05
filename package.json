@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/strarsis/eyeglass-font-stacks.git"
+    "url": "git+https://github.com/strarsis/font-stacks.git"
   },
   "author": "strarsis <strarsis@gmail.com> (https://github.com/adamstac)",
   "files": [
@@ -32,9 +32,9 @@
     "eyeglass": "*"
   },
   "bugs": {
-    "url": "https://github.com/strarsis/eyeglass-font-stacks/issues"
+    "url": "https://github.com/strarsis/font-stacks/issues"
   },
-  "homepage": "https://github.com/strarsis/eyeglass-font-stacks#readme",
+  "homepage": "https://github.com/strarsis/font-stacks#readme",
   "directories": {
     "test": "test"
   },
