@@ -24,7 +24,7 @@
   ],
   "main": "eyeglass-exports.js",
   "eyeglass": {
-    "needs": "^0.7.1",
+    "needs": "*",
     "name": "font-stacks",
     "exports": "eyeglass-exports.js"
   },
